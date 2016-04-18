@@ -1,43 +1,43 @@
-# en: English
+# en: Russian
 index:
-  menu: Menu
-  tags: Tags
-  friends: Friends
-  about: About Me
-  more: more
-  copy: Copy
+  menu: Меню
+  tags: Тэги
+  friends: Друзья
+  about: О нас
+  more: Больше
+  copy: Копия
 
 # Tables of Contents
 toc:
-  title: Contents
-  hide: Hide
-  show: Show
+  title: Содержание
+  hide: Скрыть
+  show: Показать
 
 visit_counter:
-  site: Site Visitors
-  page: Page Hits
+  site: Посетителей
+  page: Хитов
 
 copyright_info:
-  title: Title
-  author: Author
-  date: Created
-  updated: Updated
-  url: Full URL
-  from: From
-  by: By
-  license: License
+  title: Заголовок
+  author: Автор
+  date: Создано
+  updated: Обнавлено
+  url: Ссылка
+  from: От
+  by: От
+  license: Лицензия
   cc: "CC BY-NC-SA 4.0"
-  notice: "Keep Link & Author if Distribute."
+  notice: "Указывать ссылку и автора."
 
 tooltip:
-  tocButton: Show or Hide Table of Contents
-  back2home: Back to Homepage
-  nextPost: Next
-  prePost: Pre
-  miniArchives: Mini Archives
-  back2top: Back to Top
-  jump2comments: Comments
-  go2bottom: Go to Bottom
-  copyPath: "Copy Article's Link & Author"
+  tocButton: Показать или скрыть содержание
+  back2home: На главную
+  nextPost: Следущую
+  prePost: Предидущию
+  miniArchives: Миниархив
+  back2top: На верх
+  jump2comments: Коментарии
+  go2bottom: Вниз
+  copyPath: "Указывать ссылку и автора"
   Hexo: "A fast, simple & powerful blog framework"
   Yelee: Another simple and elegant theme for Hexo
